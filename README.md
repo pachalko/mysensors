@@ -61,6 +61,9 @@ parts: `MINI3`, `NRF24L01+`, `FT232BL` (reuse), `47µF 16V` (cap)
 
 connections: ![breadboard view](templates/ms-mini-3v3.png)
 
+code: [sketch](templates/ms-mini-3v3.ino)
+
+
 Sensors
 =======
 
