@@ -54,20 +54,14 @@ Inventory
 Sensors
 =======
 
-Serial Gateway
+`SGW` Serial Gateway
 --------------
 
-### parts 
+parts: `NANO`, `NRF24L01+A`, `RF24ADAP`
 
-`NANO`, `NRF24L01+A`, `RF24ADAP`
+connections: ![breadboard view](ms-serial-gateway/ms-serial-gateway.png)
 
-### connections
-
-![breadboard view](ms-serial-gateway/ms-serial-gateway.png)
-
-### code
-
-[sketch](ms-serial-gateway/ms-serial-gateway.ino)
+code: [sketch](ms-serial-gateway/ms-serial-gateway.ino)
 
 
 
