@@ -11,8 +11,9 @@ Resources
 Code
 ====
 
-- uno CH340G drivers : http://kig.re/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html
-- mysensors library 2.0.0 (with examples) : https://github.com/mysensors/MySensors.git, or Library Manager in Arduino IDE
+- Uno/Nano CH340G drivers : http://kig.re/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html
+- Mini Pro FTDI drivers: http://www.ftdichip.com/Drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_3.dmg
+- MySensors library 2.0.0 (with examples) : https://github.com/mysensors/MySensors.git, or Library Manager in Arduino IDE
 - examples and 3rd pary libraries : https://github.com/mysensors/MySensorsArduinoExamples.git
 
 Inventory 
