@@ -49,21 +49,29 @@ Inventory
 `MB102`      |  3,37€ |  1 | 3.3V/5V MB102 Breadboard power module+MB-102 830 points Solderless Prototype Bread board kit +65 Flexible jumper wires
 `NANO`       | 13,94€ |  1 | 5pcs/set = 5pcs Nano 3.0+5pcs USB Cable ATmega328 Mini-USB Board CH340G for arduino
              |        |    |
-`CAPA`       |  1,88€ |    | Capacitors: 10 each of: `0.22uF 50V`, `0.47uF 50V`, `1uF 50V`, `2.2uF 50V`, `4.7uF 50V`, `10uF 50V`, `22uF 50V`, `33uF 16V`, `47uF 16V`, `100uF 16V`, `220uF 16V`, `470uF 16V`
+`CAPA`       |  1,88€ |    | Capacitors: 10 each of: `0.22µF 50V`, `0.47µF 50V`, `1µF 50V`, `2.2µF 50V`, `4.7µF 50V`, `10µF 50V`, `22µF 50V`, `33µF 16V`, `47µF 16V`, `100µF 16V`, `220µF 16V`, `470µF 16V`
+
+Templates
+=========
+
+`MINI3` Mini Pro 3v3 template
+-----------------------------
+
+parts: `MINI3`, `NRF24L01+`, `FT232BL` (reuse), `47µF 16V` (cap)
+
+connections: ![breadboard view](templates/ms-mini-3v3.png)
 
 Sensors
 =======
 
 `SGW` Serial Gateway
---------------
+--------------------
 
 parts: `NANO`, `NRF24L01+A`, `RF24ADAP`
 
 connections: ![breadboard view](ms-serial-gateway/ms-serial-gateway.png)
 
 code: [sketch](ms-serial-gateway/ms-serial-gateway.ino)
-
-
 
 
 
