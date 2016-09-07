@@ -50,7 +50,33 @@ Inventory
 `MB102`      |  3,37€ |  1 | 3.3V/5V MB102 Breadboard power module+MB-102 830 points Solderless Prototype Bread board kit +65 Flexible jumper wires
 `NANO`       | 13,94€ |  1 | 5pcs/set = 5pcs Nano 3.0+5pcs USB Cable ATmega328 Mini-USB Board CH340G for arduino
              |        |    |
-`CAPA`       |  1,88€ |    | Capacitors: 10 each of: `0.22µF 50V`, `0.47µF 50V`, `1µF 50V`, `2.2µF 50V`, `4.7µF 50V`, `10µF 50V`, `22µF 50V`, `33µF 16V`, `47µF 16V`, `100µF 16V`, `220µF 16V`, `470µF 16V`
+             |        |    |
+`8KEY`       |  1,59€ |  1 | 1pc Key Display For AVR Arduino New 8-Bit Digital LED Tube 8-Bit TM1638 Module
+`MC38`       |  0,78€ |  6 | MC-38 1pair Wired Door Window Sensor 330mm Wire Lengthen Randomly Magnetic Switch Home Alarm System N.C Type
+`LEDCLOCK`   |  0,78€ |  1 | 1pcs 4 Bits TM1637 Red Digital Tube LED Module & Clock for Arduino LED
+`OLED12864`  |  2,92€ |  1 | 1pcs 4pin 0.96"white 0.96 inch OLED module New 128X64 OLED LCD LED Display Module For Arduino 0.96" IIC I2C Communicate
+`DOTMATRIX`  |  1,01€ |  1 | MAX7219 dot matrix module microcontroller module DIY KIT
+`VOICE`      |  0,43€ |  1 | 3pin Voice Sound Detection Sensor Module for Arduino DIY Intelligent Smart Vehicle Robot Helicopter Airplane Aeroplane BoartCar 
+`KY040`      |  0,59€ |  2 | 1pcs Rotary Encoder Module Brick Sensor Development for arduino KY-040
+`ULN2003KIT` |  1,86€ |  2 | 1set 5V 4-phase Stepper Driver Board ULN2003 kit for_Arduino
+`PI3BOX`     |  1,77€ |  2 | Raspberry Pi 512 rev3 RPI3 Box case shell generation B+ acrylic shell latest box
+`KF3012P`    |  0,67€ |  1 | 2015 New House Keeping 10pcs KF301-2P 5.08mm Blue Terminals Blue Screw Terminal 2P
+`ACDC`       |  1,83€ |  4 | TSP-05 replace HLK-PM01 AC-DC 220V to 5V mini power supply module,intelligent household switch power supply module
+`VIBR`       |  0,58€ |  1 | SW-420 Normally Closed Vibration Sensor Module for Alarm System DIY Smart Vehicle Robot Helicopter Airplane Aeroplane BoartCar
+`EXPSHIELD`  |  0,93€ |  1 | Smart Electronics UNO Proto Shield prototype expansion board with SYB-170 mini breadboard based For Arduino UNO ProtoShieldDIY
+`STICK`      |  0,51€ |  2 | Dual-axis XY Joystick Module For Arduino Joystick Module
+`LCDADAPTER` |  0,66€ |  1 | IIC/I2C / Interface LCD1602 2004 LCD Adapter Plate for Arduino LCD 1602
+`RELAY4`     |  1,82€ |  1 | 1pcs/lot 4 channel relay module 4-channel relay control board with optocoupler. Relay Output 4 way relay module for arduino
+`SG90`       |  1,12€ |  2 | 1PCS 9g micro servo for airplane aeroplane 6CH rc helcopter kds esky align helicopter sg90
+`VAMETER`    |  4,44€ |  1 | Hot Selling 1PC 5A Adjustable Power CC/CV Step-down Charge Module LED Driver Voltmeter Ammeter Constant current constantvoltage
+             |        |    |
+`PCB`        |  0,25€ | 10 | 86036 Free shipping 10pcs Double Side Prototype PCB diy Universal Printed Circuit Board 4x6cm
+(OK) `BAT2AA`|  0,32€ | 10 | Plastic Battery Storage Case Box Holder For2 X AA 2xAA 3V+ wire leads
+             |        |    |
+`CAPA`       |  1,88€ |    | Capacitors:  10 each of: `0.22µF 50V`, `0.47µF 50V`, `1µF 50V`, `2.2µF 50V`, `4.7µF 50V`, `10µF 50V`, `22µF 50V`, `33µF 16V`, `47µF 16V`, `100µF 16V`, `220µF 16V`, `470µF 16V`
+`DIODE`      |  1,51€ |    | Diodes:      1N4148 1N4007 1N5819 1N5399 1N5408 1N5822 FR107 FR207,8values=100pcs,Electronic Components Package,Diode Assorted Kit
+`TRANS`      |  2,59€ |    | Transistors: 18valuesX10pcs=180pcs 2N2222 S9012 S9013 S9014 A1015 C1815 S8050 S8550 TO-92 Transistor Assorted Kit
+`RES`        |  2,40€ |    | Resistors:   600 Pcs 1/4W 1% 20 Kinds Each Value Metal Film Resistor Assortment Kit
 
 Templates
 =========
@@ -64,6 +90,15 @@ connections: ![breadboard view](templates/ms-mini-3v3.png)
 
 code: [sketch](templates/ms-mini-3v3.ino)
 
+RGBW Led dimmer
+---------------
+
+parts: `OPTO`, `MOSFET`, ...
+
+connections: 
+![breadboard view](ms-led-dimmer-rgbw/ms-led-dimmer-rgbw_bb.png)
+![schem view](ms-led-dimmer-rgbw/ms-led-dimmer-rgbw_schem.png)
+![pcb view](ms-led-dimmer-rgbw/ms-led-dimmer-rgbw_pcb.png)
 
 Sensors
 =======
