@@ -112,5 +112,14 @@ connections: ![breadboard view](ms-serial-gateway/ms-serial-gateway.png)
 
 code: [sketch](ms-serial-gateway/ms-serial-gateway.ino)
 
+`BUT` One Button
+----------------
 
+parts: `MINI3`, `NRF24L01+`, `47µF 16V` (cap), Legrand switch + case
 
+connections:
+![breadboard view](ms-one-button/ms-one-button_bb.png)
+![schem view](ms-one-button/ms-one-button_schem.png)
+![pcb view](ms-one-button/ms-one-button_pcb.png)
+
+code: [sketch](ms-one-button/ms-one-button.ino)
