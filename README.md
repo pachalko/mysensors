@@ -143,3 +143,12 @@ connections:
 ![pcb view](ms-one-button/ms-one-button_pcb.png)
 
 code: [sketch](ms-one-button/ms-one-button.ino)
+
+`RSW4` 4-Channel Relay Switch
+-----------------------------
+
+parts: `MINI5`, `NRF24L01+`, `ACDC5`, `MCP1702`, `47µF 16V` (cap)
+
+connections:
+![breadboard view](ms-relay-switch-4ch/ms-relay-switch-4ch_bb.png)
+![pcb view](ms-relay-switch-4ch/ms-relay-switch-4ch_pcb.png)
