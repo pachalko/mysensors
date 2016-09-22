@@ -84,6 +84,11 @@ Templates
 `MINI3` Mini Pro 3v3 template
 -----------------------------
 
+current drawn (unmodified)
+- 4.5mA: do nothing, awake
+- 1.2mA: send one update (~3ms), sleep otherwise
+- 
+
 parts: `MINI3`, `NRF24L01+`, `FT232BL` (reuse), `47µF 16V` (cap)
 
 connections: ![breadboard view](templates/ms-mini-3v3.png)
