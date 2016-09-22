@@ -64,7 +64,7 @@ DISPLAYS     |        |    |
 `LCD1602`    |  1,24€ |  1 | 1pcs LCD1602 LCD monitor 1602 5V blue screen and white code for arduino
 ?`8KEY`      |  1,59€ |  1 | 1pc Key Display For AVR Arduino New 8-Bit Digital LED Tube 8-Bit TM1638 Module
 `OLED12864`  |  2,92€ |  1 | 1pcs 4pin 0.96"white 0.96 inch OLED module New 128X64 OLED LCD LED Display Module For Arduino 0.96" IIC I2C Communicate
-
+             |        |    |
 INPUT        |        |    | 
 ?`STICK`     |  0,51€ |  2 | Dual-axis XY Joystick Module For Arduino Joystick Module
 ?`KY040`     |  0,59€ |  2 | 1pcs Rotary Encoder Module Brick Sensor Development for arduino KY-040
