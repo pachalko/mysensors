@@ -139,7 +139,6 @@ parts: `MINI3`, `NRF24L01+`, `47µF 16V` (cap), Legrand switch + case
 
 connections:
 ![breadboard view](ms-one-button/ms-one-button_bb.png)
-![schem view](ms-one-button/ms-one-button_schem.png)
 ![pcb view](ms-one-button/ms-one-button_pcb.png)
 
 code: [sketch](ms-one-button/ms-one-button.ino)
@@ -148,6 +147,7 @@ code: [sketch](ms-one-button/ms-one-button.ino)
 -----------------------------
 
 parts: `MINI5`, `NRF24L01+`, `ACDC5`, `MCP1702`, `47µF 16V` (cap)
+addons: `RELAY4`, `INFRA`
 
 connections:
 ![breadboard view](ms-relay-switch-4ch/ms-relay-switch-4ch_bb.png)
