@@ -1,1 +1,6 @@
 libraries
+.homeassistant/deps
+.homeassistant/secrets.yaml
+.HA_VERSION
+home-assistant_v2.db
+home-assistant.log

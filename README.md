@@ -7,6 +7,7 @@ Resources
 - https://www.arduino.cc/en/Reference/HomePage (basic Arduino reference)
 - https://www.aliexpress.com/store/731260 (Arduino hw)
 - https://www.aliexpress.com/store/506373 (small parts)
+- https://www.openhardware.io (some project ideas)
 
 Code
 ====
@@ -100,9 +101,9 @@ Templates
 -----------------------------
 
 current drawn (unmodified)
-- 4.5mA: do nothing, awake
-- 1.2mA: send one update (~3ms), sleep otherwise
-- 
+-  4.5mA: do nothing, awake
+-  1.2mA: send one update (~3ms), sleep otherwise
+
 
 parts: `MINI3`, `NRF24L01+`, `FT232BL` (reuse), `47µF 16V` (cap)
 
@@ -112,6 +113,10 @@ code: [sketch](templates/ms-mini-3v3.ino)
 
 RGBW Led dimmer
 ---------------
+
+`5050RGBWW` led strip power draw
+- each section 10cm, 12 leds (3R, 3G, 3B, 3WW)
+- 4 x 20mA = 80mA = 0.96W @ 12V
 
 parts: `OPTO`, `MOSFET`, ...
 
