@@ -157,3 +157,12 @@ addons: `RELAY4`, `INFRA`
 connections:
 ![breadboard view](ms-relay-switch-4ch/ms-relay-switch-4ch_bb.png)
 ![pcb view](ms-relay-switch-4ch/ms-relay-switch-4ch_pcb.png)
+
+code: [sketch](ms-relay-switch-4ch/ms-relay-switch-4ch.ino)
+
+`THS` Temperature and Humidity Sensor
+-------------------------------------
+
+- battery powered, ~3mA with sleeping, leds on, regulator on
+
+code: [sketch](ms-relay-switch-4ch/ms-relay-switch-4ch.ino)
