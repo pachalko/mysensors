@@ -23,8 +23,8 @@
 // Enable and select radio type attached
 #define MY_RADIO_NRF24
 
-// MIN settings is safe and works, but I try to increase power
-#define MY_RF24_PA_LEVEL RF24_PA_LOW
+// MIN settings is safe and works, but I perhaps should try to increase power
+#define MY_RF24_PA_LEVEL RF24_PA_MIN
 
 // Modify one default pin for radio
 #define MY_RF24_CE_PIN 14
@@ -89,7 +89,7 @@ void presentation()  {
 
   // Register one or more sensors.
   // For available sensor types, see
-  // https://home-assistant.io/components/sensor.mysensors/
+  // https://www.mysensors.org/download/serial_api_20#message-type
   present(SENSOR_1_CHILD_ID, S_BINARY);
   present(SENSOR_2_CHILD_ID, S_BINARY);
   present(SENSOR_3_CHILD_ID, S_BINARY);
