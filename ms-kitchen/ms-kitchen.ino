@@ -45,8 +45,8 @@
 #include <DHT.h>
 
 #define LIGHT_CHILD_ID 1
-#define LIGHT_SWITCH_PIN 2 
-#define LIGHT_DIMMER_PIN 3
+#define LIGHT_DIMMER_PIN 2
+#define LIGHT_SWITCH_PIN 3
 
 #define DOOR_CHILD_ID 2
 #define DOOR_SENSOR_PIN 4
