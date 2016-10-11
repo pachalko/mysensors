@@ -74,9 +74,14 @@ ACTUATORS    |        |    |
 ?`SG90`      |  1,12€ |  2 | 1PCS 9g micro servo for airplane aeroplane 6CH rc helcopter kds esky align helicopter sg90
 `RELAY4`     |  1,82€ |  1 | 1pcs/lot 4 channel relay module 4-channel relay control board with optocoupler. Relay Output 4 way relay module for arduino
 ?`ULN2003KIT`|  1,86€ |  2 | 1set 5V 4-phase Stepper Driver Board ULN2003 kit for_Arduino
+?`DIMMER`    |  1,94€ |  1 | FOR Arduino 1 way IRF540 module MOSFET switch moduleo
+?`DIMMER4`   |  4,79€ |  1 | Four Channel 4 Route MOSFET Button IRF540 V4.0+ MOSFET Switch Module For Arduino
              |        |    | 
-ELEMENTS     |        |    | 
-`LED`        |  1,08€ |  1 | 50pcs 5mm LED Light Assorted Kit DIY LEDs Set White Yellow Red Green Blue each=10pcs
+ELEMENTS     |        |    |
+`PC817`      |  1,02€ |    | X175 Free shipping 20pcs High Density Mounting Type Photocoupler DIP-4 PC817C DIP Optocoupler PC817
+`LED`        |  1,08€ |    | 50pcs 5mm LED Light Assorted Kit DIY LEDs Set White Yellow Red Green Blue each=10pcs
+`4N35`       |  1,61€ |    | G111-01 Free shipping 10pcs DIP-6 4N35 DIP Optocoupler 4N35
+`IRF540N`    |  1,84€ |    | F071-08 10PCS IRF540NPBF IRF540N IRF540 MOSFET MOSFT 100V 33A 44mOhm 47.3nC
 `CAPA`       |  1,88€ |    | Capacitors:  10 each of: `0.22µF 50V`, `0.47µF 50V`, `1µF 50V`, `2.2µF 50V`, `4.7µF 50V`, `10µF 50V`, `22µF 50V`, `33µF 16V`, `47µF 16V`, `100µF 16V`, `220µF 16V`, `470µF 16V`
 `DIODE`      |  1,51€ |    | Diodes:      1N4148 1N4007 1N5819 1N5399 1N5408 1N5822 FR107 FR207,8values=100pcs,Electronic Components Package,Diode Assorted Kit
 `TRANS`      |  2,59€ |    | Transistors: 18valuesX10pcs=180pcs 2N2222 S9012 S9013 S9014 A1015 C1815 S8050 S8550 TO-92 Transistor Assorted Kit
@@ -92,7 +97,7 @@ CABLES, ETC. |        |    |
 `UNOBOX`     |  1,12€ |  1 | One set Transparent Box Case Shell for Arduino UNO R3
 ?`PI3BOX`    |  1,77€ |  1 | Raspberry Pi 512 rev3 RPI3 Box case shell generation B+ acrylic shell latest box
 `MB102`      |  3,37€ |  1 | 3.3V/5V MB102 Breadboard power module+MB-102 830 points Solderless Prototype Bread board kit +65 Flexible jumper wires
-             |        |    | 
+`VARIOUS`    |        |    | Headers, sockets, etc. 
 
 Templates
 =========
