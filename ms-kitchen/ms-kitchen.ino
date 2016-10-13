@@ -45,21 +45,21 @@
 #include <DHT.h>
 
 #define LIGHT_CHILD_ID 1
-#define LIGHT_DIMMER_PIN 2
-#define LIGHT_SWITCH_PIN 3
+#define LIGHT_SWITCH_PIN 2
+#define LIGHT_DIMMER_PIN 3
 
 #define DOOR_CHILD_ID 2
 #define DOOR_SENSOR_PIN 4
 
 #define MOTION_CHILD_ID 3
-#define MOTION_PIN 5
+#define MOTION_PIN 7
 
  
 #define TEMP_CHILD_ID 4
 #define HUMI_CHILD_ID 5
 #define TIND_CHILD_ID 6
 #define DHT_TYPE DHT11
-#define DHT_PIN 6 
+#define DHT_PIN 8
 
 // Init one or more messages for anouncing state changes.
 // For available variable types, see
