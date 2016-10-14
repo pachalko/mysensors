@@ -116,8 +116,8 @@ connections: ![breadboard view](templates/ms-mini-3v3.png)
 
 code: [sketch](templates/ms-mini-3v3.ino)
 
-RGBW Led dimmer
----------------
+`RGBWDIM` RGBW Led dimmer
+-------------------------
 
 `5050RGBWW` led strip power draw
 - each section 10cm, 12 leds (3R, 3G, 3B, 3WW)
@@ -171,3 +171,16 @@ code: [sketch](ms-relay-switch-4ch/ms-relay-switch-4ch.ino)
 - battery powered, ~3mA with sleeping, leds on, regulator on
 
 code: [sketch](ms-relay-switch-4ch/ms-relay-switch-4ch.ino)
+
+Multi-purpose sensors
+=====================
+
+`KIT` Kitchen
+-------------
+
+parts: `MINI3`, `NRF24L01+`, `4N35`, `MOSFET`, `47µF 16V` (cap), resistors, led, jumpers...
+
+connections: ![pcb view](ms-kitchen/ms-kitchen_pcb.png)
+
+code: [sketch](ms-kitchen/ms-kitchen.ino)
+
