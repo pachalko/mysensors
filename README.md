@@ -29,18 +29,15 @@ Inventory
 `MINI5`      |  1,53€ |  4 | With the bootloader 1pcs ATMEGA328P Pro Mini 328 Mini ATMEGA328 5V/16MHz for Arduino
 `UNOR3`      |  2,68€ |  1 | 1pcs New 2016 - UNO R3 ATmega328P/CH340G MicroUSB. Compatible for Arduino UNO Rev 3.0 (hei)
 `NANO`       |  2,79€ |  5 | Nano 3.0+USB Cable ATmega328 Mini-USB Board CH340G for arduino
-             |        |    | 
 POWER        |        |    | 
 ?`MT3608`    |  0,45€ |  4 | 1pcs MT3608 2A Max DC-DC Step Up Power Module Booster Power Module For Arduino
 `MCP1702`    |  0,70€ |  4 | 3V3 DC Voltage regulator 
 ?`ACDC5`     |  1,83€ |  4 | TSP-05 replace HLK-PM01 AC-DC 220V to 5V mini power supply module,intelligent household switch power supply module
 ?`VAMETER`   |  4,44€ |  1 | Hot Selling 1PC 5A Adjustable Power CC/CV Step-down Charge Module LED Driver Voltmeter Ammeter Constant current constantvoltage
-             |        |    | 
 RADIO        |        |    | 
 `RF24ADAP`   |  0,61€ |  4 | New Socket Adapter plate Board for 8Pin NRF24L01 Wireless Transceive module 51
 `NRF24L01+`  |  0,72€ | 12 | 1pcs Wireless Transceiver For Arduino NRF24L01+ 2.4GHz Antenna Module For Microcontroll
 `NRF24L01+A` |  1,79€ |  2 | 1sets Special promotions 1100-meter long-distance NRF24L01+PA+LNA wireless modules (with antenna)
-             |        |    | 
 SENSORS      |        |    | 
 `INFRA`      |  0,35€ |  1 | 1pcs IR x Avoidance Sensor Module for Arduino Smart Car Robot 3-wire Reflective Photoelectric New hei
 `LIGHT`      |  0,36€ |  4 | 1pcs Photosensitive Sensor Module Light Detection Module for Arduino guang
@@ -57,7 +54,6 @@ SENSORS      |        |    |
 ?`MPU6050`   |  1,26€ |  1 | GY-521 MPU-6050 MPU6050 Module 3 Axis analog gyro sensors+ 3 Axis Accelerometer Module
 ?`BMP180`    |  1,42€ |  2 | 1PCS GY-68 BMP180 Replace BMP085 Digital Barometric Pressure Sensor Module For Arduino
 `RC522`      |  1,62€ |  1 | 1 set RFID module RC522 Kits 13.56 Mhz 6cm With Tags SPI Write & Read for arduino uno 2560
-             |        |    | 
 DISPLAYS     |        |    | 
 ?`LCDADAPTER`|  0,66€ |  1 | IIC/I2C / Interface LCD1602 2004 LCD Adapter Plate for Arduino LCD 1602
 ?`LEDCLOCK`  |  0,78€ |  1 | 1pcs 4 Bits TM1637 Red Digital Tube LED Module & Clock for Arduino LED
@@ -65,18 +61,15 @@ DISPLAYS     |        |    |
 `LCD1602`    |  1,24€ |  1 | 1pcs LCD1602 LCD monitor 1602 5V blue screen and white code for arduino
 ?`8KEY`      |  1,59€ |  1 | 1pc Key Display For AVR Arduino New 8-Bit Digital LED Tube 8-Bit TM1638 Module
 `OLED12864`  |  2,92€ |  1 | 1pcs 4pin 0.96"white 0.96 inch OLED module New 128X64 OLED LCD LED Display Module For Arduino 0.96" IIC I2C Communicate
-             |        |    |
 INPUT        |        |    | 
 ?`STICK`     |  0,51€ |  2 | Dual-axis XY Joystick Module For Arduino Joystick Module
 ?`KY040`     |  0,59€ |  2 | 1pcs Rotary Encoder Module Brick Sensor Development for arduino KY-040
-             |        |    | 
 ACTUATORS    |        |    | 
 ?`SG90`      |  1,12€ |  2 | 1PCS 9g micro servo for airplane aeroplane 6CH rc helcopter kds esky align helicopter sg90
 `RELAY4`     |  1,82€ |  1 | 1pcs/lot 4 channel relay module 4-channel relay control board with optocoupler. Relay Output 4 way relay module for arduino
 ?`ULN2003KIT`|  1,86€ |  2 | 1set 5V 4-phase Stepper Driver Board ULN2003 kit for_Arduino
 ?`DIMMER`    |  1,94€ |  1 | FOR Arduino 1 way IRF540 module MOSFET switch moduleo
 ?`DIMMER4`   |  4,79€ |  1 | Four Channel 4 Route MOSFET Button IRF540 V4.0+ MOSFET Switch Module For Arduino
-             |        |    | 
 ELEMENTS     |        |    |
 `PC817`      |  1,02€ |    | X175 Free shipping 20pcs High Density Mounting Type Photocoupler DIP-4 PC817C DIP Optocoupler PC817
 `LED`        |  1,08€ |    | 50pcs 5mm LED Light Assorted Kit DIY LEDs Set White Yellow Red Green Blue each=10pcs
@@ -86,7 +79,6 @@ ELEMENTS     |        |    |
 `DIODE`      |  1,51€ |    | Diodes:      1N4148 1N4007 1N5819 1N5399 1N5408 1N5822 FR107 FR207,8values=100pcs,Electronic Components Package,Diode Assorted Kit
 `TRANS`      |  2,59€ |    | Transistors: 18valuesX10pcs=180pcs 2N2222 S9012 S9013 S9014 A1015 C1815 S8050 S8550 TO-92 Transistor Assorted Kit
 `RES`        |  2,40€ |    | Resistors:   600 Pcs 1/4W 1% 20 Kinds Each Value Metal Film Resistor Assortment Kit
-             |        |    |
 CABLES, ETC. |        |    | 
 ?`PCB`       |  0,25€ | 10 | 86036 Free shipping 10pcs Double Side Prototype PCB diy Universal Printed Circuit Board 4x6cm
 `BAT2AA`     |  0,32€ | 10 | Plastic Battery Storage Case Box Holder For2 X AA 2xAA 3V+ wire leads
